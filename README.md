@@ -4,7 +4,10 @@ Interactive **Credit Card UI** with **3D Flip Animation** built using **HTML & C
 Hovering over the card flips it to show the back side with a magnetic strip, signature area, and terms text.
 
 ![Preview](data/images/preview.png)
-[Live Demo](https://m7med-os.github.io/Flipping-Card-UI-Design-in-HTML-CSS/)
+
+## 🔗 Live Demo
+
+[**View Live Demo Here**](https://m7med-os.github.io/Flipping-Card-UI-Design-in-HTML-CSS/)  
 
 ---
 
@@ -76,3 +79,4 @@ Back Side:
 - Add **JavaScript** to dynamically update card info from input fields.
 - Improve **mobile experience** with touch-based flip animation.
 - Add **multiple card styles** (Visa, Amex, etc.).
+
